@@ -2,9 +2,6 @@
 
 ## Your Ultimate food delivery App in Qatar.
 
-
-here are some screnshots of the App in Android, iOS, and Web.
-
 To get started, Clone this repository and head over to 'lib/globalvars.dart' and provide authenticated values for the two vars:
 
 1- xApiKeyKey
