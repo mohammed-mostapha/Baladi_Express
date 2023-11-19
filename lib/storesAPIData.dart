@@ -5,15 +5,15 @@ import 'Globalvars.dart';
 import 'package:dotted_line/dotted_line.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-class storesAPIData extends StatefulWidget {
-  const storesAPIData({super.key});
+class StoresAPIData extends StatefulWidget {
+  const StoresAPIData({super.key});
 
   @override
-  State<storesAPIData> createState() => _storesAPIDataState();
+  State<StoresAPIData> createState() => _storesAPIDataState();
 }
 
 // ignore: camel_case_types
-class _storesAPIDataState extends State<storesAPIData> {
+class _storesAPIDataState extends State<StoresAPIData> {
   late final Future _apiResponse;
   dynamic _jsonList;
 

@@ -11,6 +11,7 @@ const String categories =
 const String products =
     'https://devapi.baladiexpress.com/v4/products/all-new/baladi-express-store?page=1&limit=16&sort_by=latest&order_by=desc&latitude=25.3185782&longitude=51.500352';
 
-const String xApiKeyKey = 'xxxxxx';
+const String xApiKeyKey = 'x-api-key';
 
-const String xApiKeyValue = 'xxxxxxxxxxxxx';
+const String xApiKeyValue =
+    'baladi_dev_pX2Rldl9LSFlVSVM3TDN4YTA3ZHNmZ2R5V0E4ZE1S';

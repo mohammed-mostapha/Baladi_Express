@@ -78,7 +78,7 @@ class _RestaurantsState extends State<Restaurants> {
                 margin: const EdgeInsets.symmetric(vertical: 10),
                 child: const RestaurantsFilters(),
               ),
-              const storesAPIData(),
+              const StoresAPIData(),
             ],
           ),
         ),
